@@ -1,5 +1,6 @@
 const authMiddleware = (req, res, next) => {
     const openRoutes = [
+        '/',
         '/login', 
         '/user/createUser', 
         '/user/login', 
