@@ -14,7 +14,7 @@ const PORT = 7002;
 
 
 // MongoDB Connection
-const uri = "mongodb+srv://saksham:qgNJBitFGTK7JLrb@null-pointers.jj4nx.mongodb.net/?retryWrites=true&w=majority&appName=Null-Pointers";
+const uri = "";
 
 async function run() {
   try {
